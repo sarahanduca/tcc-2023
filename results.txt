@@ -1,0 +1,792 @@
+Rafael Silva - male
+Bruno Lellis - male
+Cíntia Zani Fávaro-Polonio - female
+João Alencar Pamphile - male
+Julio Cesar Polonio - male
+Fabíola Barbiéri Holetz - female
+Greisiele Lorena Pessini - female
+Neviton Rogério Sanches - male
+Diógenes Aparício Garcia Cortez - male
+Celso Vataru Nakamura - male
+Benedito Prado Dias Filho - male
+Mauricio G Araujo - male
+Sidinei M. Thomaz - male
+Luis Mauricio Bini - male
+Reinaldo Luiz Bozelli - male
+Mauricio G. Araujo - male
+Flavia Sukekava - female
+M. Araújo - None
+Agostinho Aa - male
+Pelicice Fm - None
+Gomes Lc - male
+Andressa Blainski - female
+Gisely Cristiny Lopes - female
+João Carlos Palazzo de Mello - male
+C. O. Alves - None
+F. J. S. A. Corrêa - None
+T. F. Ma - None
+Alessandro C. Martins - male
+Osvaldo Pezoti - male
+André L. Cazetta - male
+Karen C. Bedin - female
+Diego A.S. Yamazaki - male
+Gisele F.G. Bandoch - female
+Jesuí V. Visentainer - None
+Vitor C. Almeida - male
+Marcos R. Guilherme - male
+Fauze A. Aouada - female
+André R. Fajardo - male
+Alessandro F. Martins - male
+Alexandre T. Paulino - male
+Magali F.T. Davi - female
+Adley F. Rubira - male
+Edvani C. Muniz - female
+Mauricio G. Araujo - male
+Angelo A. Agostinho - male
+Luiz Carlos Gomes - male
+Samuel Veríssimo - male
+Edson K. Okada - male
+Eliane Cristina Gruszka Vendruscolo - female
+Ivan Schuster - male
+Marcos Pileggi - male
+Carlos Alberto Scapim - male
+Hugo Bruno Correa Molinari - male
+Celso Jamil Marur - male
+Luiz Gonzaga Esteves Vieira - male
+Alexandro M.M. Vargas - male
+André L. Cazetta - male
+Marcos H. Kunita - male
+Taís L. Silva - female
+Vitor C. Almeida - male
+Karen C. Bedin - female
+Alessandro C. Martins - male
+André L. Cazetta - male
+Osvaldo Pezoti - male
+Vitor C. Almeida - male
+Michelly C.G. Pellá - female
+Michele K. Lima-Tenório - female
+Ernandes T. Tenório-Neto - male
+Marcos R. Guilherme - male
+Edvani C. Muniz - female
+Adley F. Rubira - male
+Sidinei M. Thomaz - male
+Charles W. I. Haminiuk - male
+Giselle M. Maciel - female
+Manuel S. V. Plata-Oviedo - male
+Rosane M. Peralta - female
+W. J. Junk - None
+M. T. F. Piedade - None
+L. D. Lacerda - None
+R. L. Bozelli - None
+F. A. Esteves - None
+C. Nunes da Cunha - None
+L. Maltchik - None
+Y. Schaeffer-Novelli - None
+A. A. Agostinho - None
+Franciele M. Pelissari - female
+Maria V. E. Grossmann - female
+Fabio Yamashita - male
+Edgardo Alfonso G. Pineda - male
+Camila Sampaio Mangolim - female
+Cristiane Moriwaki - female
+Ana Claudia Nogueira - female
+Francielle Sato - female
+Mauro Luciano Baesso - male
+Antônio Medina Neto - male
+Graciette Matioli - female
+W. Sepúlveda-Loyola - None
+D. V. Oliveira - None
+Alexandre T. Paulino - male
+Julliana I. Simionato - female
+Juliana C. Garcia - female
+Jorge Nozaki - male
+Rodolfo Miranda Pereira - male
+Diego Bertolini - male
+Lucas O. Teixeira - male
+Carlos Nascimento Silla - male
+Yandre M. G. Costa - None
+S. M. Thomaz - None
+Sidinei Magela Thomaz - male
+Mauricio G. Araújo - male
+M. Barletta - None
+N. F. Fontoura - None
+A. A. Agostinho - None
+V. M. F. Almeida-Val - None
+A. L. Val - None
+R. A. Torres - None
+T. Giarrizzo - None
+N. N. Fabré - None
+V. S. Batista - None
+M. F. Costa - None
+P. T. Chaves - None
+J. P. Vieira - None
+M. F. M. Corrêa - None
+Heloise Beatriz Quesada - female
+Aline Takaoka Alves Baptista - female
+Luís Fernando Cusioli - male
+Daiana Seibert - female
+Charleston de Oliveira Bezerra - male
+Angelo A. Agostinho - male
+Miguel Petrere - male
+Osvaldo Pezoti - male
+André L. Cazetta - male
+Karen C. Bedin - female
+Lucas S. Souza - male
+Alessandro C. Martins - male
+Taís L. Silva - female
+Oscar O. Santos Júnior - male
+Jesuí V. Visentainer - None
+Vitor C. Almeida - male
+Sidinei Magela Thomaz - male
+Eduardo Ribeiro da Cunha - male
+M.M.R. Lima - None
+J. Procopio - None
+T.C. Pithon-Curi - None
+R.B. Bazotte - None
+R. Curi - None
+Angelo A. Agostinho - male
+Sidinei M. Thomaz - male
+Luiz C. Gomes - male
+Frederico G. Graeff - male
+Maria Cristina L. Silveira - female
+Regina L. Nogueira - female
+Elisabeth A. Audi - female
+Rúbia Maria W. Oliveira - female
+Alexandre T. Paulino - male
+Marcos R. Guilherme - male
+Adriano V. Reis - male
+Gilsinei M. Campese - male
+Edvani C. Muniz - female
+Jorge Nozaki - male
+C A Tormena - male
+Francisco H. A. Rodrigues - male
+André R. Fajardo - male
+Antonio G. B. Pereira - male
+Nágila M. P. S. Ricardo - female
+Judith P. A. Feitosa - female
+Edvani C. Muniz - female
+Antonio F. Branco - male
+Mauricio G. Araújo - male
+P. P. González-Borrero - None
+F. Sato - None
+A. N. Medina - None
+Mauro Luciano Baesso - male
+Antonio Carlos Bento - male
+A. Ferreira da Silva - None
+Tatiana S. Tiuman - female
+Adriana O. Santos - female
+Tânia Ueda-Nakamura - female
+Benedito P. Dias Filho - male
+Fatemeh Eftekhari - female
+Carlos Escobedo - male
+Jacqueline Ferreira - female
+Xiaobo Duan - None
+Emerson M. Girotto - male
+Alexandre G. Brolo - male
+Reuven Gordon - male
+David Sinton - male
+Fernando M Pelicice - male
+Paulo S Pompeu - male
+Angelo A Agostinho - male
+Maurício G. Araújo - male
+W. Sepúlveda-Loyola - None
+D. V. Oliveira - None
+A.C. Carreira - None
+F.H. Lojudice - None
+E. Halcsik - None
+R.D. Navarro - None
+M.C. Sogayar - None
+J.M. Granjeiro - None
+Marcos Rafael Nanni - male
+José Alexandre M. Demattê - male
+Leandro Chambrone - male
+Flávia Sukekava - female
+Maurício G Araújo - male
+Francisco Emílio Pustiglioni - male
+Luiz Armando Chambrone - male
+Luiz Antonio Pugliesi Alves de Lima - male
+Renata Mariane de Souza - female
+Daiana Seibert - female
+Heloise Beatriz Quesada - female
+Fátima de Jesus Bassetti - female
+Márcia Regina Fagundes-Klen - female
+Rosângela Bergamasco - female
+C. V. Minte-Vera - None
+A. Amorim - None
+M. Brick Peres - None
+N. de Oliveira Leite - None
+R. Lessa - None
+F. L. Fredou - None
+Tatiana Baptista Gibertoni - female
+Aristóteles Góes-Neto - male
+André L. C. M. de A. Santiago - male
+E. Ricardo Drechsler-Santos - None
+Lidia Silva Araujo-Neta - female
+Gladstone Alves da Silva - male
+Catarina Letícia Ferreira de Lima - female
+Rafael José Vilela de Oliveira - male
+Carlos Alberto Fragoso de Souza - male
+Fernando Mafalda-Freire - male
+Mateus A. Reck - male
+E.A. Oliveira - None
+S.F. Montanher - None
+A.D. Andrade - None
+J.A. Nóbrega - None
+M.C. Rollemberg - None
+Fernando Mayer Pelicice - male
+Angelo Antonio Agostinho - male
+Thiago F. Rangel - male
+José Alexandre F. Diniz-Filho - male
+Marco Túlio P. Coelho - male
+Fernanda A. S. Cassemiro - female
+Robert K. Colwell - male
+Francisco Langeani - male
+Ricardo Macedo Corrêa e Castro - male
+Osvaldo Takeshi Oyakawa - male
+Oscar Akio Shibatta - male
+Carla Simone Pavanelli - female
+Lilian Casatti - female
+T.F. Ma - None
+J.E. Muñoz Rivera - None
+Marcelo M. Cavalcanti - male
+Valéria N. Domingos Cavalcanti - female
+M. M. Cavalcanti - None
+V. N. Domingos Cavalcanti - None
+J. Ferreira - None
+Regina Inês Kunz - female
+Rose Meire Costa Brancalhão - female
+Lucinéia de Fátima Chasko Ribeiro - female
+Maria Raquel Marçal Natali - female
+Sidinei Magela Thomaz - male
+Cristiane Spagnol - female
+Francisco H.A. Rodrigues - male
+Antonio G.B. Pereira - male
+André R. Fajardo - male
+Adley F. Rubira - male
+Edvani C. Muniz - female
+Angelo Antonio Agostinho - male
+Luiz Carlos Gomes - male
+Natália C.L. Santos - female
+Jean Carlo Goncalves Ortega - female
+Fernando Mayer Pelicice - male
+Juliana Dotto - female
+Márcia Regina Fagundes-Klen - female
+Márcia Teresinha Veit - female
+Soraya Moreno Palácio - female
+Rosangela Bergamasco - female
+André L. Cazetta - male
+Osvaldo Pezoti - male
+Karen C. Bedin - female
+Taís L. Silva - female
+Andrea Paesano Junior - female
+Vitor C. Almeida - male
+H. D. Coletta-Filho - None
+M. L. P. N. Targon - None
+M. A. Takita - None
+J. D. De Negri - None
+J. Pompeu - None
+M. A. Machado - None
+A. M. do Amaral - None
+G. W. Muller - None
+Karla K. Beltrame - female
+André L. Cazetta - male
+Patrícia S.C. de Souza - female
+Lucas Spessato - male
+Taís L. Silva - female
+Vitor C. Almeida - male
+Celso Vataru Nakamura - male
+Tania Ueda-Nakamura - female
+Erika Bando - female
+Abrahão Fernandes Negrão Melo - None
+Díogenes Aparício Garcia Cortez - None
+Benedito Prado Dias Filho - male
+Angela Claudia Rodrigues - female
+Marcela Boroski - female
+Natalia Sueme Shimada - female
+Juliana Carla Garcia - female
+Jorge Nozaki - male
+Noboru Hioka - male
+André A. Padial - male
+Fernanda Ceschin - female
+Cláudia C. Bonecker - female
+Fabio A. Lansac-Tôha - male
+Liliana Rodrigues - female
+Luzia C. Rodrigues - female
+Sueli Train - female
+Luiz F. M. Velho - male
+Luis M. Bini - male
+Flávia Chiva Carvalho - female
+Marcos Luciano Bruschi - male
+Raul Cesar Evangelista - male
+Maria Palmira Daflon Gremião - female
+C.E. Borba - None
+R. Guirardello - None
+E.A. Silva - None
+M.T. Veit - None
+C.R.G. Tavares - None
+André L P Abreu - male
+Raquel P Souza - female
+Fabrícia Gimenes - female
+Marcia E L Consolaro - female
+Clayton Antunes Martin - male
+Vanessa Vivian de Almeida - female
+Marcos Roberto Ruiz - male
+Jeane Eliete Laguila Visentainer - female
+Makoto Matshushita - male
+Nilson Evelázio de Souza - male
+Taís L. Silva - female
+Amanda Ronix - female
+Osvaldo Pezoti - male
+Lucas S. Souza - male
+Patrícia K.T. Leandro - female
+Karen C. Bedin - female
+Karla K. Beltrame - female
+André L. Cazetta - male
+Vitor C. Almeida - male
+Tânia Ueda-Nakamura - female
+Ricardo R. Mendonça-Filho - male
+José Andrés Morgado-Díaz - male
+Paloma Korehisa Maza - female
+Benedito Prado Dias Filho - male
+Diógenes Aparício Garcia Cortez - male
+Daniela Sales Alviano - female
+Maria do Socorro S. Rosa - female
+Angela Hampshire C.S. Lopes - female
+Celuta Sales Alviano - None
+Alessandro F. Martins - male
+Suelen P. Facchi - female
+Heveline D. M. Follmann - female
+Antonio G. B. Pereira - male
+Adley F. Rubira - male
+Edvani C. Muniz - female
+Fernanda Carolina Fachini-Queiroz - female
+Raquel Kummer - female
+Camila Fernanda Estevão-Silva - female
+Maria Dalva de Barros Carvalho - female
+Joice Maria Cunha - female
+Renata Grespan - female
+Ciomar Aparecida Bersani-Amado - None
+Roberto Kenji Nakamura Cuman - male
+Rodolpho M. do Prado - male
+Eduardo J. Pilau - male
+Hilario C. Mantovani - male
+Denise Abrahim - female
+Welligton L. Braguini - male
+Ana M. Kelmer-Bracht - female
+Emy L. Ishii-Iwamoto - female
+David J. Hoeinghaus - male
+Angelo A. Agostinho - male
+Luiz C. Gomes - male
+Fernando M. Pelicice - male
+Edson K. Okada - male
+João D. Latini - male
+Elaine A. L. Kashiwaqui - female
+Alessandro Lourenço Januário - male
+Wagner Rodrigues Duarte - male
+Mauricio Barriviera - male
+Juliana Cristina Mesti - female
+Mauricio Guimarães Araújo - male
+Natália Ueda Yamaguchi - female
+Rosângela Bergamasco - female
+Flavia Carolina Moreira-Vilar - female
+Rita de Cássia Siqueira-Soares - female
+Aline Finger-Teixeira - female
+Dyoni Matias de Oliveira - female
+Ana Paula Ferro - female
+George Jackson da Rocha - male
+Maria de Lourdes L. Ferrarese - female
+Wanderley Dantas dos Santos - male
+Osvaldo Ferrarese-Filho - male
+M.E. Delamaro - None
+Bruna Kempfer Bassoli - female
+Priscila Cassolla - female
+Glaucia Regina Borba-Murad - female
+Jorgete Constantin - female
+Clairce Luzia Salgueiro-Pagadigorria - None
+Roberto Barbosa Bazotte - male
+Rui Sérgio dos Santos Ferreira da Silva - male
+Helenir Medri de Souza - female
+José A.M Demattê - male
+Rogério C Campos - male
+Marcelo C Alves - male
+Peterson R Fiorio - male
+Marcos R Nanni - male
+M. Araujo - None
+R. Hayacibara - None
+F. Sukekava - None
+Joana Schuelter Boeing - female
+Érica Oliveira Barizão - female
+Beatriz Costa e Silva - female
+Paula Fernandes Montanher - female
+Vitor de Cinque Almeida - male
+Jesuí Vergilio Visentainer - None
+Andre Luelsdorf P. de Abreu - male
+Marcia E. L. Consolaro - female
+Cinthia Gandolfi Boer - female
+Larissa Obici - female
+Cristina Giatti Marques de Souza - female
+Rosane M. Peralta - female
+Elisângela Corradini - female
+Priscila S. Curti - female
+Adriano B. Meniqueti - male
+Alessandro F. Martins - male
+Adley F. Rubira - male
+Edvani Curti Muniz - female
+Tatiana Shioji Tiuman - female
+Tânia Ueda-Nakamura - female
+Benedito Prado Dias Filho - male
+Wanderley de Souza - male
+Celso Vataru Nakamura - male
+Fábio O. Pedrosa - male
+Rose Adele Monteiro - female
+Roseli Wassem - female
+Leonardo M. Cruz - male
+Ricardo A. Ayub - male
+Nelson B. Colauto - male
+Maria Aparecida Fernandez - female
+Maria Helena P. Fungaro - female
+Edmundo C. Grisard - male
+Mariangela Hungria - female
+Humberto M. F. Madeira - male
+Rubens O. Nodari - male
+Clarice A. Osaku - female
+Maria Luiza Petzl-Erler - female
+Hernán Terenzi - male
+Luiz G. E. Vieira - male
+Maria Berenice R. Steffens - female
+Vinicius A. Weiss - male
+Luiz F. P. Pereira - male
+Marina I. M. Almeida - female
+Lysangela R. Alves - female
+Anelis Marin - female
+Luiza Maria Araujo - female
+Eduardo Balsanelli - male
+Valter A. Baura - male
+Leda S. Chubatsu - female
+Helisson Faoro - male
+Augusto Favetti - male
+Geraldo Friedermann - male
+Chirlei Glienke - female
+Susan Karp - female
+Vanessa Kava-Cordeiro - female
+Roberto T. Raittz - male
+Humberto J. O. Ramos - male
+Enilze Maria S. F. Ribeiro - None
+Liu Un Rigo - female
+Saul N. Rocha - male
+Stefan Schwab - male
+Anilda G. Silva - None
+Eliel M. Souza - male
+Michelle Z. Tadra-Sfeir - female
+Rodrigo A. Torres - male
+Audrei N. G. Dabul - female
+Maria Albertina M. Soares - female
+Luciano S. Gasques - male
+Ciela C. T. Gimenes - female
+Juliana S. Valle - female
+Ricardo R. Ciferri - male
+Luiz C. Correa - male
+Norma K. Murace - female
+João A. Pamphile - male
+Eliana Valéria Patussi - female
+Alberto J. Prioli - male
+Sonia Maria A. Prioli - female
+Carmem Lúcia M. S. C. Rocha - female
+Olívia Márcia N. Arantes - female
+Márcia Cristina Furlaneto - female
+Leandro P. Godoy - male
+Carlos E. C. Oliveira - male
+Daniele Satori - female
+Laurival A. Vilas-Boas - None
+Maria Angélica E. Watanabe - female
+Bibiana Paula Dambros - female
+Miguel P. Guerra - male
+Sandra Marisa Mathioni - female
+Karine Louise Santos - female
+Mario Steindel - male
+Javier Vernal - male
+Fernando G. Barcellos - male
+Rubens J. Campo - male
+Ligia Maria O. Chueire - female
+Marisa Fabiana Nicolás - female
+Lilian Pereira-Ferrari - female
+José L. da Conceição Silva - male
+Nereida M. R. Gioppo - female
+Vladimir P. Margarido - male
+Maria Amélia Menck-Soares - female
+Fabiana Gisele S. Pinto - female
+Rita de Cássia G. Simão - female
+Elizabete K. Takahashi - female
+Marshall G. Yates - male
+Emanuel M. Souza - male
+Dyoni Matias de Oliveira - female
+Aline Finger-Teixeira - female
+Thatiane Rodrigues Mota - female
+Victor Hugo Salvador - male
+Flávia Carolina Moreira-Vilar - female
+Hugo Bruno Correa Molinari - male
+Rogério Marchiosi - male
+Osvaldo Ferrarese-Filho - male
+Wanderley Dantas dos Santos - male
+Osvaldo Pezoti - male
+André L. Cazetta - male
+Isis P.A.F. Souza - female
+Karen C. Bedin - female
+Alessandro C. Martins - male
+Tais L. Silva - female
+Vitor C. Almeida - male
+S.F. Montanher - None
+E.A. Oliveira - None
+M.C. Rollemberg - None
+Eliana Harue Endo - female
+Diógenes Aparício Garcia Cortez - male
+Tânia Ueda-Nakamura - female
+Mauricio G. Araújo - male
+Marcela Boroski - female
+Angela Cláudia Rodrigues - female
+Juliana Carla Garcia - female
+Luiz Carlos Sampaio - male
+Jorge Nozaki - male
+Noboru Hioka - male
+M. Araújo - None
+M.J.L. Santos - None
+E.M. Girotto - None
+Janet Higuti - female
+Cléverson O. Silva - None
+Roberto Mc - male
+Santana Nn - male
+Thomaz Sm - male
+F A Lansac-Tôha - male
+C C Bonecker - male
+L F M Velho - male
+N R Simões - male
+J D Dias - male
+G M Alves - male
+E M Takahashi - male
+M.L Bruschi - None
+M.L.C Cardoso - None
+M.B Lucchesi - None
+M.P.D Gremião - None
+D.M. Fernandes - None
+R. Silva - None
+A.A.Winkler Hechenleitner - None
+E. Radovanovic - None
+M.A. Custódio Melo - None
+E.A. Gómez Pineda - None
+Fernando Mayer Pelicice - male
+Angelo Antonio Agostinho - male
+Carine Aline Schwengber - female
+Helton José Alves - male
+Rodolfo Andrade Schaffner - male
+Fernando Alves da Silva - male
+Rodrigo Sequinel - male
+Vanessa Rossato Bach - female
+Ricardo José Ferracin - male
+T.K.F.S. Freitas - None
+V.M. Oliveira - None
+M.T.F. de Souza - None
+H.C.L. Geraldino - None
+V.C. Almeida - None
+S.L. Fávaro - None
+J.C. Garcia - None
+Michelle Simone Schiavini - female
+Celso Vataru Nakamura - male
+Benedito Prado Dias Filho - male
+Alexandre T. Paulino - male
+Flavienne A.S. Minasse - None
+Marcos R. Guilherme - male
+Adriano V. Reis - male
+Edvani C. Muniz - female
+Jorge Nozaki - male
+M.M. Cavalcanti - None
+V.N. Domingos Cavalcanti - None
+Mauro Antônio S. S. Ravagnani - male
+A.P. Silva - None
+P.A. Arroyo - None
+A.A. Constantino - None
+R.M. Suzuki - None
+A.D. Andrade - None
+J.C. Sousa - None
+M.C. Rollemberg - None
+A Rowe - male
+F.A.F Macedo - None
+J.V Visentainer - None
+N.E Souza - None
+M Matsushita - female
+M.G.A. Vieira - None
+A.F. Almeida Neto - None
+M.L. Gimenes - None
+M.G.C. da Silva - None
+Yandre M.G. Costa - None
+Luiz S. Oliveira - male
+Carlos N. Silla - male
+Juliana Yuri Nagata - female
+Noboru Hioka - male
+Elza Kimura - female
+Vagner Roberto Batistela - male
+Raquel Sano Suga Terada - female
+Ariane Ximenes Graciano - female
+Mauro Luciano Baesso - male
+Mitsue Fujimaki Hayacibara - female
+M. G. Araújo - None
+M. Sonohara - None
+R. Hayacibara - None
+Márcia N Brito - female
+Nilton A Brito - male
+Maria Suely Pagliarini - female
+S.T.D. de Barros - None
+C.M.G. Andrade - None
+E.S. Mendes - None
+L. Peres - None
+T.F. Ma - None
+F. F. De Moraes - None
+Adriano V. Reis - male
+André R. Fajardo - male
+Ivania T. A. Schuquel - female
+Marcos R. Guilherme - male
+Gentil José Vidotti - male
+Adley F. Rubira - male
+Edvani C. Muniz - female
+Cleide M. F. Soares - female
+Heizir F. De Castro - None
+Flávio F. De Moraes - male
+Gisella M. Zanin - female
+Rodrigo Leão Moura - male
+Nélio Augusto Secchin - male
+Gilberto Menezes Amado-Filho - male
+Ronaldo Bastos Francini-Filho - male
+Matheus Oliveira Freitas - male
+Carolina Viviana Minte-Vera - female
+João Batista Teixeira - male
+Fabiano Lopes Thompson - male
+Guilherme Fraga Dutra - male
+Paulo Yukio Gomes Sumida - male
+Arthur Zigliatti Guth - male
+Rubens Mendes Lopes - male
+Alex Cardoso Bastos - male
+Luiz Felipe M. Velho - male
+Bianca T. Segovia - female
+Fabio A. Lansac-Toha - male
+I. Takaki - None
+L.E. Bersani-Amado - None
+A. Vendruscolo - None
+S.M. Sartoretto - None
+S.P. Diniz - None
+C.A. Bersani-Amado - None
+R.K.N. Cuman - None
+Lucas Spessato - male
+Karen C. Bedin - female
+André L. Cazetta - male
+Isis P.A.F. Souza - female
+Vitor A. Duarte - male
+Lucas H.S. Crespo - male
+Marcela C. Silva - female
+Rodrigo M. Pontes - male
+Vitor C. Almeida - male
+A. A. Agostinho - None
+F. M. Pelicice - None
+A. C. Petry - None
+L. C. Gomes - None
+H. F. Júlio - None
+Altair B. Moreira - male
+Jesuı́ V. Visentainer - None
+Nilson E. de Souza - male
+Makoto Matsushita - male
+Natália de Camargo Lima Beluci - female
+Gustavo Affonso Pisano Mateus - male
+Carolina Sayury Miyashiro - female
+Natália Cândido Homem - female
+Raquel Guttierres Gomes - female
+Márcia Regina Fagundes-Klen - female
+Rosangela Bergamasco - female
+Angélica Marquetotti Salcedo Vieira - female
+P. S. Pompeu - None
+A. A. Agostinho - None
+F. M. Pelicice - None
+Fabrícia Gimenes - female
+Raquel P. Souza - female
+Jaqueline C. Bento - female
+Jorge J. V. Teixeira - male
+Silvya S. Maria-Engler - female
+Marcia E. L. Consolaro - female
+Adriana Oliveira dos Santos - female
+Tânia Ueda-Nakamura - female
+Benedito Prado Dias Filho - male
+Valdir F Veiga Junior - male
+Angelo C Pinto - male
+Ana-Paula Wunderlich - female
+R S Oliveira - male
+F A Ferreira - male
+Andréia Assunção Soares - female
+Cristina Giatti Marques de Souza - female
+Francielle Marina Daniel - female
+Gisele Pezente Ferrari - female
+Sandra Maria Gomes da Costa - female
+Rosane Marina Peralta - female
+Fernanda L. Seixas - female
+Deise L. Fukuda - female
+Franciele R.B. Turbiani - female
+Patrícia S. Garcia - female
+Carmen L. de O. Petkowicz - female
+Marcelino L. Gimenes - male
+Franciele Pereira Camacho - female
+Rosângela Bergamasco - female
+Rogério Marchiosi - male
+Wanderley Dantas dos Santos - male
+Rodrigo Polimeni Constantin - male
+Rogério Barbosa de Lima - male
+Anderson Ricardo Soares - male
+Aline Finger-Teixeira - female
+Thatiane Rodrigues Mota - female
+Dyoni Matias de Oliveira - female
+Marcela de Paiva Foletto-Felipe - female
+Josielle Abrahão - female
+Osvaldo Ferrarese-Filho - male
+Cléverson O. Silva - None
+Horácio Ferreira Júlio Júnior - male
+Claudenice Dei Tós - female
+Ângelo Antonio Agostinho - male
+Carla Simone Pavanelli - female
+Alexandre T. Paulino - male
+Lauro T. Kubota - male
+Edvani C. Muniz - female
+Vitor C. Almeida - male
+Elias B. Tambourgi - male
+Fernando M Pelicice - male
+Valter M Azevedo‐Santos - male
+Jean R S Vitule - female
+Mário L Orsi - male
+Dilermando P Lima Junior - male
+André L B Magalhães - male
+Paulo S Pompeu - male
+Miguel Petrere - male
+Angelo A Agostinho - male
+Y. M. G. Costa - None
+L. S. Oliveira - None
+A. L. Koerich - None
+J. G. Martins - None
+Maria Laine Penha Tinoco - female
+Bárbara B. A. Dias - female
+Rebeca C. Dall’Astta - female
+João Alencar Pamphile - male
+Francisco José Lima Aragão - male
+M de los A P Lizama - female
+A M Ambrósio - male
+C. Jacinto - None
+D.N. Messias - None
+A.A. Andrade - None
+S.M. Lima - None
+M.L. Baesso - None
+T. Catunda - None
+Haroldo V. Ribeiro - male
+D. Bailly - None
+A. A. Agostinho - None
+H. I. Suzuki - None
+Cassio Antonio Tormena - male
+Alvaro Pires da Silva - male
+Paulo Leonel Libardi - male
+Mauricio G Araújo - male
+Rúbia Carvalho Gomes Corrêa - female
+Tatiane Brugnari - female
+Total: female - 266
+male - 348
