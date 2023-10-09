@@ -23,12 +23,12 @@ def gender_counter(authors):
 
 if __name__ == "__main__":
     total_pages, next_cursor, authors = get_works('*', [])
-    for page in range(1, 3):
+    for page in range(2, 4):
         total_pages, next_cursor, authors = get_works(next_cursor, authors)
 
     authors_names_br, gender_count = gender_counter(authors)
 
-    with open('results.txt', 'w', encoding="utf-8") as f:
+    with open('results2.txt', 'w', encoding="utf-8") as f:
         for author in authors_names_br:
             if author[1] is None:
                 author[1] = "None"
